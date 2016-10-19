@@ -1,0 +1,8 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+public/* linguist-vendored
+resources/assets/* linguist-vendored
+resources/* liguist-vendored
+*.md linguist-vendored
+*.txt linguist-vendored

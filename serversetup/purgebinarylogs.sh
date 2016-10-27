@@ -3,7 +3,7 @@ SLAVE_PASS=############
 MASTER_USER=forge
 MASTER_PASS=###########
 
-# TODO : centralize server datas
+# TODO : centralize server data
 SLAVES=('##.###.###.###')
 MASTER_LOGS=()
 LOWEST_LOG=1000000
